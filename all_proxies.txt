@@ -1,8 +1,3 @@
-https://t.me/proxy?server=p1.proxytesterbot.cloud&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=72.56.70.20&port=443&secret=eeac39424f7f0bc1508ea3d1ab73f187a76f7a6f6e2e7275
-https://t.me/proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ
-https://t.me/proxy?server=max.ru.rightarion.ru&port=443&secret=eec1e84a7f2d9b3056eaf17c4d8b62f9036d61782e7275
-https://t.me/proxy?server=ru.gotelega.click&port=443&secret=eef6fd3b2e6af4c284066f5a6e0b6d8bcc72752e676f74656c6567612e636c69636b
 https://t.me/proxy?server=79.137.196.223&port=2443&secret=eeeed28dc05b23b7ccba27a3d352abf1467c7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=always.for.you.ir.mausjakaqd.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mirror.balalaika.click&port=443&secret=eee4b4eaf07c9633ab6f87dfc5b48151cf6d6972726f722e62616c616c61696b612e636c69636b
