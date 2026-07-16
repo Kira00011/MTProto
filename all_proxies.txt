@@ -273,7 +273,6 @@ https://t.me/proxy?server=cip.histirik.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIM
 https://t.me/proxy?server=rrfhoo88001m1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=rr7dhoo88001m1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.218.54&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=s2.postpulse.space&port=443&secret=ee263bf8f7de3c2b04aa1c008ab21e4a566164322e617269786f2e73686f70
 https://t.me/proxy?server=salaaam.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=s3.postpulse.space&port=443&secret=eede09f27f5ed0877907c31d53a7aca5526164332e617269786f2e73686f70
 https://t.me/proxy?server=103.161.35.23&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
