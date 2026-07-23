@@ -181,7 +181,6 @@ https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdC
 https://t.me/proxy?server=messi.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=khob.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=Red.dada-co.info&port=2040&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=hetzner-com.vanitydomain.co.uk.&port=443&secret=7n8x-w5-QJ2Mg-7VX6vFRgBoZXR6bmVyLmNvbQ==
 https://t.me/proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=shir.dokhtar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
@@ -253,6 +252,7 @@ https://t.me/proxy?server=gaf6g7h26ff8uh8ihbx7h7hdhh991m2.ir.meli-n13.info&port=
 https://t.me/proxy?server=gaf6g7h268uh8ihbx77h7hdhh991m2.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.109.250.216&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=Red.dada-co.info&port=2040&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=135.181.92.68&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.109.251.136&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=2e9f6jwj1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
